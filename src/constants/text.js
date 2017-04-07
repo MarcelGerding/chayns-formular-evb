@@ -1,0 +1,2 @@
+export const HEADLINE = 'EVB Nummer anfordern';
+export const DESCRIPTION = 'Fordern Sie hier Ihre EVB Nummer an. Bitte haben Sie Verständnis, dass die Zusendung bis zu 48 Stunden dauern kann. Felder mit einem * müssen bitte ausgefüllt werden.';
